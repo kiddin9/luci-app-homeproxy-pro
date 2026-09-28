@@ -21,7 +21,7 @@ LUCI_DEPENDS:= \
     +kmod-tun \
 	+ucode-mod-digest
 
-PKG_NAME:=luci-app-homeproxy
+PKG_NAME:=luci-app-homeproxy-pro
 PKG_VERSION:=28.9.1.14
 PKG_RELEASE:=25
 
